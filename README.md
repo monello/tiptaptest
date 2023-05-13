@@ -1,4 +1,4 @@
-# tiptaptest
+# Tiptap test
 
 Trying out the TipTap editor quick install demo
 
